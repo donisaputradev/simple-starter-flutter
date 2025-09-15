@@ -12,7 +12,7 @@ The project is structured around `core`, `features`, and `app` layers, making it
 - ⚙️ **Settings** with preferences and localization  
 - 🌐 **API integration** with network layer and error handling  
 - 📦 **Dependency injection** using service locator pattern  
-- 🌍 **Internationalization (i18n)** support with ARB & generated localization files  
+- 🌍 **Internationalization (i10n)** support with ARB & generated localization files  
 - 🛠 **Clean Architecture**: separation of concerns between `core`, `features`, and `app`  
 
 ---
